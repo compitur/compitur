@@ -1,1 +1,1 @@
-# compitur
+# compitur 🐝
